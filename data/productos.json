@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Coca-Cola",
+        "precio": 700,
+        "imagen": "descarga.png"
+    },
+    {
+        "nombre": "Pepsi",
+        "precio": 800,
+        "imagen": "pepsi.png"
+    },
+    {
+        "nombre": "Sprite",
+        "precio": 900,
+        "imagen": "sprite2.png"
+    },
+    {
+        "nombre": "Fanta",
+        "precio": 800,
+        "imagen": "fanta.png"
+    }
+]

@@ -1,0 +1,72 @@
+.header {
+    background-color: black;
+}
+body {
+    overflow-x: hidden;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    display: flex;
+    justify-content: center;
+}
+
+#total {
+    color: red;
+}
+footer {
+    background-color: black;
+}  
+
+.producto img {
+    height: 200px;
+}
+.simulador1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    
+}
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.swiper-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.swiper-wrapper {
+    max-width: 100%;
+    text-align: center;
+}
+
+.footer1 {
+    margin-top: 50px;
+}
+@media (max-width: 768px) {
+    .swiper-container {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+}
+
+.redes p {
+    color: white;
+}
